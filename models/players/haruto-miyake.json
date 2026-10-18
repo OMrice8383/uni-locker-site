@@ -1,0 +1,17 @@
+{
+  "id": "haruto-miyake",
+  "number": 17,
+  "shirtName": "M.HARUTO",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 131826,
+      "sha256": "10c6b3adb04218fa4128f0a139ff8dfbdb06f7c09f438347db7582a8df76ee49"
+    },
+    "2048": {
+      "bytes": 280478,
+      "sha256": "604a24aa8bf6635970d58179c08136b21f3338c6cb2f5aed9821f5323ccd57d3"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gensuke-mori",
+  "number": 9,
+  "shirtName": "GENSUKE",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 133416,
+      "sha256": "fd06d0c0d7e8ae08ccdea2133a70cfe165114aa9655ee338c4d2d703ce5236d3"
+    },
+    "2048": {
+      "bytes": 283928,
+      "sha256": "fb0b485b2695cf3a5d164983c2160fa979045eea8bed3adfcdd74f295e244922"
+    }
+  }
+}

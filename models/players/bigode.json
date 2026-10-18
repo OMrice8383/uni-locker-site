@@ -1,0 +1,18 @@
+{
+  "id": "bigode",
+  "number": 30,
+  "shirtName": "BIGODE",
+  "kitId": "gk-primary",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "57c4806616fd33b71f64dd217f7d47ee8a5829847aaef1456ce955efe53b5200",
+  "sizes": {
+    "1024": {
+      "bytes": 139986,
+      "sha256": "8a97cb56610aa0ab0dd494fe2d1c0e16737e8fa4ed0ad19bd2ebe1d02c748c77"
+    },
+    "2048": {
+      "bytes": 293834,
+      "sha256": "a1ab2ea2149c2832afada5882f296565b569521e4705640b40c78f60d141457c"
+    }
+  }
+}

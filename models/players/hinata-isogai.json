@@ -1,0 +1,17 @@
+{
+  "id": "hinata-isogai",
+  "number": 13,
+  "shirtName": "HINATA",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 132690,
+      "sha256": "fe6ce5b553ec534769f7d4e2a00241d21ea9778a2039316fc584693b6dd5fa33"
+    },
+    "2048": {
+      "bytes": 282056,
+      "sha256": "1b639e3b6ff44e3b0c31c087266f206b457466f6b6a84ba29c030d9f2655223c"
+    }
+  }
+}

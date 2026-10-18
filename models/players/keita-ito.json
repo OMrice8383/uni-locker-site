@@ -1,0 +1,17 @@
+{
+  "id": "keita-ito",
+  "number": 8,
+  "shirtName": "I.KEITA",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 133262,
+      "sha256": "b4c11cb3030bff173d4aac32309e4095352a5c1502c6c657eee47626171951be"
+    },
+    "2048": {
+      "bytes": 283530,
+      "sha256": "1c2e6d5c2cd2fab5c84afe070467becdb8ca1930e0337c3c440d36ffdb0d20bf"
+    }
+  }
+}

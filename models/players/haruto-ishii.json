@@ -1,0 +1,18 @@
+{
+  "id": "haruto-ishii",
+  "number": 26,
+  "shirtName": "I.HARUTO",
+  "kitId": "gk-primary",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "57c4806616fd33b71f64dd217f7d47ee8a5829847aaef1456ce955efe53b5200",
+  "sizes": {
+    "1024": {
+      "bytes": 140424,
+      "sha256": "4cd28861b075a42bfb352c5e368a17180b4150ae3184a17de983159f328f1002"
+    },
+    "2048": {
+      "bytes": 294692,
+      "sha256": "4b64ecc7f1779c5810ca73bbda57c667768beef28117b5d077682ca6148690e7"
+    }
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "mesh": {
+    "source_triangles": 118916,
+    "shirt_triangles": 30380,
+    "hanger_triangles": 5364,
+    "glb_bytes": 846492,
+    "glb_sha256": "5d0e1bf9bfce8ae73e5c9b8570a986a933fba9db033b7e8d9c8848f03f45be56",
+    "uv_inversions": 0,
+    "retained_uv_error_px": 0,
+    "max_sampled_surface_error_mm": 1.909766928292811,
+    "parts": [
+      {
+        "name": "Pattern2D_79914",
+        "triangles": 11138,
+        "locked_vertices": 0,
+        "boundary_edges": 530
+      },
+      {
+        "name": "Pattern2D_80123",
+        "triangles": 11662,
+        "locked_vertices": 0,
+        "boundary_edges": 500
+      },
+      {
+        "name": "Pattern2D_2195934",
+        "triangles": 1980,
+        "locked_vertices": 36,
+        "boundary_edges": 208
+      },
+      {
+        "name": "Pattern2D_2195938",
+        "triangles": 1960,
+        "locked_vertices": 62,
+        "boundary_edges": 208
+      },
+      {
+        "name": "Pattern2D_2195936",
+        "triangles": 644,
+        "locked_vertices": 31,
+        "boundary_edges": 164
+      },
+      {
+        "name": "Pattern2D_2195940",
+        "triangles": 652,
+        "locked_vertices": 0,
+        "boundary_edges": 164
+      },
+      {
+        "name": "Pattern2D_911234",
+        "triangles": 762,
+        "locked_vertices": 375,
+        "boundary_edges": 170
+      },
+      {
+        "name": "Pattern2D_911461",
+        "triangles": 530,
+        "locked_vertices": 282,
+        "boundary_edges": 114
+      },
+      {
+        "name": "Pattern2D_80126",
+        "triangles": 522,
+        "locked_vertices": 59,
+        "boundary_edges": 216
+      },
+      {
+        "name": "Pattern2D_80131",
+        "triangles": 530,
+        "locked_vertices": 162,
+        "boundary_edges": 216
+      }
+    ]
+  },
+  "textures": [
+    {
+      "size": 2048,
+      "bytes": 256370,
+      "lossless_encoding": true,
+      "source_psnr_db": 38.21827286597487,
+      "gpu_rgba8_mip_bytes": 22369620,
+      "prerendered_bytes": 262992
+    },
+    {
+      "size": 4096,
+      "bytes": 290836,
+      "lossless_encoding": true,
+      "source_psnr_db": null,
+      "gpu_rgba8_mip_bytes": 89478484,
+      "prerendered_bytes": 304326
+    }
+  ],
+  "benchmark": [
+    {
+      "device": "pc",
+      "size": 2048,
+      "mode": "base",
+      "samples": 3,
+      "load_ms_median": 110.7000000178814,
+      "texture_ms_median": 1,
+      "compose_ms_median": 0,
+      "gpu_mib": 21.333332061767575,
+      "canvas_mib": 0
+    },
+    {
+      "device": "pc",
+      "size": 2048,
+      "mode": "prerendered",
+      "samples": 3,
+      "load_ms_median": 122.59999999403954,
+      "texture_ms_median": 1.0999999940395355,
+      "compose_ms_median": 0,
+      "gpu_mib": 21.333332061767575,
+      "canvas_mib": 0
+    },
+    {
+      "device": "pc",
+      "size": 2048,
+      "mode": "canvas",
+      "samples": 3,
+      "load_ms_median": 85.59999999403954,
+      "texture_ms_median": 0.9000000059604645,
+      "compose_ms_median": 1.2999999821186066,
+      "gpu_mib": 21.333332061767575,
+      "canvas_mib": 16
+    },
+    {
+      "device": "pc",
+      "size": 4096,
+      "mode": "base",
+      "samples": 3,
+      "load_ms_median": 264.69999998807907,
+      "texture_ms_median": 0.8999999761581421,
+      "compose_ms_median": 0,
+      "gpu_mib": 85.33333206176758,
+      "canvas_mib": 0
+    },
+    {
+      "device": "pc",
+      "size": 4096,
+      "mode": "prerendered",
+      "samples": 3,
+      "load_ms_median": 171.5,
+      "texture_ms_median": 1.0999999940395355,
+      "compose_ms_median": 0,
+      "gpu_mib": 85.33333206176758,
+      "canvas_mib": 0
+    },
+    {
+      "device": "pc",
+      "size": 4096,
+      "mode": "canvas",
+      "samples": 3,
+      "load_ms_median": 250.5,
+      "texture_ms_median": 0.8999999761581421,
+      "compose_ms_median": 1.9000000059604645,
+      "gpu_mib": 85.33333206176758,
+      "canvas_mib": 64
+    },
+    {
+      "device": "mobile",
+      "size": 2048,
+      "mode": "base",
+      "samples": 3,
+      "load_ms_median": 110.30000001192091,
+      "texture_ms_median": 0.7999999821186066,
+      "compose_ms_median": 0,
+      "gpu_mib": 21.333332061767575,
+      "canvas_mib": 0
+    },
+    {
+      "device": "mobile",
+      "size": 2048,
+      "mode": "prerendered",
+      "samples": 3,
+      "load_ms_median": 123.59999999403954,
+      "texture_ms_median": 1.2000000178813934,
+      "compose_ms_median": 0,
+      "gpu_mib": 21.333332061767575,
+      "canvas_mib": 0
+    },
+    {
+      "device": "mobile",
+      "size": 2048,
+      "mode": "canvas",
+      "samples": 3,
+      "load_ms_median": 123,
+      "texture_ms_median": 0.9000000059604645,
+      "compose_ms_median": 1.0999999940395355,
+      "gpu_mib": 21.333332061767575,
+      "canvas_mib": 16
+    },
+    {
+      "device": "mobile",
+      "size": 4096,
+      "mode": "base",
+      "samples": 3,
+      "load_ms_median": 256.5,
+      "texture_ms_median": 1,
+      "compose_ms_median": 0,
+      "gpu_mib": 85.33333206176758,
+      "canvas_mib": 0
+    },
+    {
+      "device": "mobile",
+      "size": 4096,
+      "mode": "prerendered",
+      "samples": 3,
+      "load_ms_median": 197.0999999940395,
+      "texture_ms_median": 1.300000011920929,
+      "compose_ms_median": 0,
+      "gpu_mib": 85.33333206176758,
+      "canvas_mib": 0
+    },
+    {
+      "device": "mobile",
+      "size": 4096,
+      "mode": "canvas",
+      "samples": 3,
+      "load_ms_median": 256.19999998807907,
+      "texture_ms_median": 0.8999999761581421,
+      "compose_ms_median": 1.4000000059604645,
+      "gpu_mib": 85.33333206176758,
+      "canvas_mib": 64
+    }
+  ],
+  "uncached": [
+    {
+      "device": "pc",
+      "viewport": [
+        1440,
+        900
+      ],
+      "stats": {
+        "resolution": 2048,
+        "mode": "base",
+        "loadMs": 425.39999997615814,
+        "navigationMs": 830.5999999940395,
+        "textureMs": 2.9000000059604645,
+        "composeMs": 0,
+        "triangles": 35744,
+        "calls": 11,
+        "textures": 2,
+        "geometries": 11,
+        "programs": 2,
+        "gpuMiB": 21.333332061767578,
+        "canvasMiB": 0,
+        "maxTextureSize": 16384
+      },
+      "resources": [
+        {
+          "name": "http://127.0.0.1:5187/models/jersey.glb",
+          "ms": 3.4000000059604645,
+          "transfer": 846792,
+          "encoded": 846492
+        },
+        {
+          "name": "http://127.0.0.1:5187/models/fp-home-2048.webp",
+          "ms": 2.4000000059604645,
+          "transfer": 243816,
+          "encoded": 243516
+        }
+      ]
+    },
+    {
+      "device": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "stats": {
+        "resolution": 2048,
+        "mode": "base",
+        "loadMs": 473.90000000596046,
+        "navigationMs": 843.9000000059605,
+        "textureMs": 3,
+        "composeMs": 0,
+        "triangles": 35744,
+        "calls": 11,
+        "textures": 2,
+        "geometries": 11,
+        "programs": 2,
+        "gpuMiB": 21.333332061767578,
+        "canvasMiB": 0,
+        "maxTextureSize": 16384
+      },
+      "resources": [
+        {
+          "name": "http://127.0.0.1:5187/models/jersey.glb",
+          "ms": 3.7999999821186066,
+          "transfer": 846792,
+          "encoded": 846492
+        },
+        {
+          "name": "http://127.0.0.1:5187/models/fp-home-2048.webp",
+          "ms": 2.5,
+          "transfer": 243816,
+          "encoded": 243516
+        }
+      ]
+    }
+  ],
+  "measurement_environment": "HeadlessChrome 154, Windows, local Vite dev, DPR1, PC1440x900 and viewport390x844 (not physical mobile); 3 repeated warm transitions; context recreated for each choice",
+  "gpu_memory": "calculated RGBA8 full mip chain for base map only, excludes framebuffer/geometry/renderer internals; Canvas adds CPU backing store",
+  "composition": "temporary Arial bold RYOTO/15; PNG atlas positions name (2369,800), number (2369,1400); exact typeface/placement awaits Claude",
+  "recommended": "2048px lossless WebP; pre-rendered player images loaded lazily (not all 18 GPU-resident); runtime Canvas feasible for selected player but additional 16/64MiB CPU backing store",
+  "current_texture_atlas_commit": "49d601e",
+  "benchmark_atlas_commit": "e9148dc",
+  "measurement_note": "サイズとPSNRは49d601eの更新柄。benchmark/uncachedはe9148dcの旧柄での参考測定であり、更新柄を再計測した値ではない。compositionはP-02の仮書体比較だけ。通常Appはlocker_scene_p03の正式合成を使う。",
+  "locker_scene_p03": {
+    "base_commit": "cc124bb",
+    "environment": "Windows HeadlessChrome 154; DPR1; local Vite; cache disabled; 1440x900 and 390x844; not physical phones; one run per viewport; same renderer throughout each 20-switch test",
+    "composition": "Delivered digit SVGs + layout.json + Arimo-Bold.ttf; equals compose.mjs; name below back number; small front number; lossless WebP after LANCZOS resize; no runtime Canvas",
+    "preview_size": 1024,
+    "detail_size": 2048,
+    "window_radius": 3,
+    "synthetic_garments": 18,
+    "normal_app": [
+      { "viewport": [1440, 900], "mount_to_ready_ms": 427, "navigation_to_ready_ms": 827.5 },
+      { "viewport": [390, 844], "mount_to_ready_ms": 421.3, "navigation_to_ready_ms": 824 }
+    ],
+    "synthetic_load": [
+      { "viewport": [1440, 900], "mount_to_ready_ms": 451, "navigation_to_ready_ms": 837, "drag_frames": 45, "median_frame_ms": 13.9, "p95_frame_ms": 14.1, "max_frame_ms": 47.2 },
+      { "viewport": [390, 844], "mount_to_ready_ms": 440.9, "navigation_to_ready_ms": 818.9, "drag_frames": 40, "median_frame_ms": 13.9, "p95_frame_ms": 14.6, "max_frame_ms": 35.4 }
+    ],
+    "steady_switch_resources": { "switches_per_viewport": 20, "geometry_min": 12, "geometry_max": 12, "texture_min": 8, "texture_max": 8, "includes": "11 shared GLB geometries + rail; seven player textures + one renderer internal texture" },
+    "gpu_base_map_estimate_mib": { "rack_seven_1024": 37.3333, "six_1024_plus_one_2048": 53.3333, "excludes": "framebuffer, geometry, renderer internals; calculated RGBA8 + full mip chain, not measured GPU bytes" },
+    "fault_checks": ["GLB failure and retry", "current detail texture failure and retry", "WebGL context lost", "WebGL2 unavailable"],
+    "native_touch": { "horizontal_limit_deg": 25, "vertical_scroll_px": 140, "touch_action": "pan-y pinch-zoom", "physical_device": false },
+    "evidence": "Git-ignored .local/models/p03-{browser,load,fault-touch}.json and logs; no long-term leak or real-mobile performance guarantee"
+  },
+  "locker_scene_p04": {
+    "p03_commit": "5ce98d15ce4974052ffbc4c70e66dbe8538fbf9a",
+    "environment": "Windows HeadlessChrome 154; DPR1; local Vite; 1440x900 and 390x844; cache disabled for load measurement; one run per viewport; not physical phones",
+    "live_settings": ["camera", "rack", "selection", "rotation", "sway", "lighting", "timeScale"],
+    "replays": ["jerseyPull", "jerseyFlip", "jerseySway"],
+    "motion_checks": ["global OFF: immediate position/rotation, sway 0", "OS reduced motion: immediate position/rotation, sway 0"],
+    "synthetic_load": [
+      { "viewport": [1440, 900], "mount_to_ready_ms": 456.2, "navigation_to_ready_ms": 828.1, "drag_frames": 44, "median_frame_ms": 13.9, "p95_frame_ms": 14.1, "max_frame_ms": 37.1 },
+      { "viewport": [390, 844], "mount_to_ready_ms": 438.8, "navigation_to_ready_ms": 823.9, "drag_frames": 40, "median_frame_ms": 13.9, "p95_frame_ms": 20.8, "max_frame_ms": 54.5 }
+    ],
+    "steady_switch_resources": [
+      { "viewport": [1440, 900], "switches": 20, "geometry_min": 12, "geometry_max": 12, "texture_min": 8, "texture_max": 8 },
+      { "viewport": [390, 844], "switches": 20, "geometry_min": 12, "geometry_max": 12, "texture_min": 7, "texture_max": 7 }
+    ],
+    "resource_note": "renderer.info counts uploaded resources, including internal textures; ready nearby images can remain CPU-only when culled. GPU map estimate remains P-03's upper-bound RGBA8+mips, not actual device bytes.",
+    "production_smoke": { "viewports": [[1440, 900], [390, 844]], "real_3d": true, "dev_preview_and_tuner_excluded": true, "horizontal_overflow": false, "new_runtime_exceptions": 0, "glb_requests_per_navigation": 1 },
+    "native_touch_vertical_scroll_px": 146,
+    "fault_checks": ["GLB failure and retry", "current detail texture failure and retry", "WebGL context lost", "WebGL2 unavailable", "old detail error queued before cleanup does not poison next selection"],
+    "native_regression_command": "node src/scene/locker.browser-check.mjs <own-browser-CDP-WebSocket> <own-page-target-id>",
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 10, "tests_passed": 93 },
+    "review": { "workflow": "8cfb1b55-1e75-4fa3-841e-45edbf2e9419", "child": "1785fc18-787c-413b-872e-4c7d9e45bf4b", "verdict": "GO for separate local P-04 commit; no findings; read-only, did not execute commands or browser" },
+    "evidence": "Git-ignored .local/models/p04-{tuner,browser,load,fault-touch}.json and logs, p04-stale-error-red.log, p04-stale-tracked.log, p04-production.{json,log}, p04-final-check.log; no long-term leak or real-mobile performance guarantee"
+  },
+  "number_layout_update": {
+    "date": "2026-10-10",
+    "base_commit": "c641125",
+    "rebased_p03_commit": "9ceb6a6",
+    "rebased_p04_commit": "529ecfb",
+    "layout_sha256": "d7a7ef7a6caef9309abccd79a79f07187f26c75dbd9c57bfad8113c9408b7d70",
+    "source": "Current layout.json and digit SVGs; no copied placement/condensing constants; name letterSpacing now consumed",
+    "font": { "file": "Arimo-Bold.ttf", "sha256": "22261f10e78d5e16e5ae305cc6f4a0c5ca24a4b1f0e14d3eec5750fb57877a5a", "weight": 700, "embedded": true, "system_fonts": false, "chrome_font_face": "Arimo/700/loaded" },
+    "reference": { "command": "node assets-src/kit/numbers/compose.mjs 10 NAME out.svg", "svg_equal_cases": ["10 NAME", "15 RYOTO", "19 K.KEITA"], "webp_equal_to_resized_reference_png": 4 },
+    "comparisons": ["docs/images/p03-followup/number-10-comparison-back.png", "docs/images/p03-followup/number-10-comparison-front.png"],
+    "comparison_method": "Left: reference SVG 4096 with embedded Bold; right: generator through 2048 lossless WebP, decoded. Same actual GLB/camera/lights in Blender. 10/NAME is QA only, not a roster addition.",
+    "browser": { "viewports": [[1440, 900], [390, 844]], "players": 2, "faces": 2, "horizontal_overflow": false, "page_exceptions": 0, "physical_device": false },
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 10, "tests_passed": 96 },
+    "measurement_note": "locker_scene_p03/p04 timings and resource counts were measured before this number update; not remeasured here. Player JSON manifests contain current output sizes/hashes.",
+    "evidence": "Git-ignored .local/models/numbers-comparison.json and logs, numbers-browser.log, numbers-render.log, numbers-check.log and 8 normal-App screenshots; comparisons tracked above"
+  },
+  "p03_followup": {
+    "date": "2026-10-10",
+    "base_commit": "d41e607",
+    "branch": "pi/p03-followup",
+    "qa_images_directory": "docs/images/p03-followup; excluded from public and dist",
+    "default_changes": { "fields": ["src/tuner/settings.ts: FACTORY_SETTINGS.scene3d.camera.mobileDistance", "src/tuner/tuning.json: scene3d.camera.mobileDistance"], "from": 5.2, "to": 3.04, "other_defaults_unchanged": true },
+    "camera": "Only mobile selection focuses on actual GLB shirt center, using railY/jerseyScale/height/lookAtY/pullDistance; PC retains original camera and poses. Shirt collar/hem inside stage; hanger hook top outside stage in selected mobile framing.",
+    "mobile_projection": { "viewport": [390, 844], "stage": [390, 354.46875], "method": "Project all actual shirt vertices with runtime camera quaternion and garment transforms", "previous_back_ratio": 0.27653, "previous_front_ratio": 0.277196, "current_back_ratio": 0.6029447897040656, "current_front_ratio": 0.6070180007916448, "both_players": true },
+    "pc": { "viewport": [1440, 900], "distance": 4.2, "height": 0.1, "fov": 35, "look_at_origin": true, "pose_unchanged": true, "pixel_equality_claimed": false },
+    "lighting_options_not_adopted": [
+      { "name": "A current", "ambient": 0.35, "key": 1.4, "ambient_color": "#3a3226", "key_color": "#fff4d6" },
+      { "name": "B brighter", "ambient": 0.8, "key": 2.4, "ambient_color": "#ffffff", "key_color": "#ffffff" },
+      { "name": "C brightest", "ambient": 1.4, "key": 3.6, "ambient_color": "#ffffff", "key_color": "#ffffff" }
+    ],
+    "lighting_note": "Actual Tuner inputs; live Light values asserted. A remains committed. B/C vary color as well as intensity. Own draft restored. Screenshots cropped only, no recoloring/grading. #f2e303 reference swatch; adoption is the user's decision.",
+    "touch": { "engine": "Windows Chromium CDP synthetic touch; not physical phone", "canvas_tap": true, "horizontal_100px_degrees": 25, "vertical_scroll_px": 234 },
+    "screenshots": ["docs/images/p03-followup/mobile-size-back.png", "docs/images/p03-followup/mobile-size-front.png", "docs/images/p03-followup/lighting-three-options.png", "docs/images/p03-followup/pc-front-unchanged.png"],
+    "browser": { "horizontal_overflow": false, "new_runtime_exceptions": 0 },
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 11, "tests_passed": 101 },
+    "not_measured": ["physical mobile devices", "new 18-shirt load/stress timings", "long-term memory behavior"],
+    "evidence": "Git-ignored .local/models/followup-qa.{mjs,json,log}, followup-red.log, followup-hem-red.log, followup-check.log, screenshots; TESTING section 18"
+  },
+  "p07_look": {
+    "date": "2026-10-10", "base_commit": "4183e61", "branch": "pi/p07-look",
+    "normal": { "file": "public/models/fabric-normal.png", "size": [128, 128], "bytes": 36136, "sha256": "d410bbacb2c47bd8dba86c6ad0fb4304ae2328ce81867b4e97ee4e78744ff631", "color_space": "NoColorSpace", "repeat": [64, 64], "normal_scale": [0.35, 0.35], "shared_per_scene": 1, "gpu_rgba8_mips_mib": 0.08333, "source": "Original procedural knit; node src/scene/generate-fabric.mjs" },
+    "rack": { "side_angle_degrees": 90, "hero_spacing": 0.78, "outer_spacing": 0.16, "zero_angle_restores_original_spacing": true, "continuous_fractional_drag": true },
+    "lighting": { "tone_mapping": "NeutralToneMapping", "exposure": 1, "key": "White top/front spotlight; existing Tuner keyIntensity/keyColor; decay0, penumbra1; no shadow maps/postprocessing", "ambient": "Existing Tuner ambientIntensity/ambientColor", "background": "Scene-owned black 78% matte; UI/components unchanged" },
+    "browser": { "viewports": [[1440, 900], [390, 844]], "tap_side_shirt": true, "back_front": true, "detail_drag_limit_deg": 25, "return_center_back": true, "overflow": false, "exceptions": 0, "tuner_live": ["sideAngleDeg 0/90", "sideSpacing .16/.24", "exposure .5/1"], "stale_detail_error_regression": true, "input": "CDP mouse at both viewport sizes; not physical phones or new native-touch testing" },
+    "resources": { "switches_per_viewport": 20, "geometries": 12, "textures": 9, "normal_uuid_stable": true, "gpu_estimate_rack_mib": 37.41667, "gpu_estimate_detail_mib": 53.41667, "note": "RGBA8+mips upper bound; excludes geometry/framebuffer/internal textures. Not actual GPU bytes." },
+    "load_environment": "Windows HeadlessChrome154; DPR1; localhost Vite; cache disabled; three fresh navigations per viewport; same browser; demand-loop frame intervals under two-rAF CDP pacing; discard first 5 drag samples. Not GPU time or physical-phone FPS; not directly comparable to historical P03 pacing.",
+    "baseline_load_runs": [
+      { "viewport": [1440, 900], "run": 0, "mount_to_ready_ms": 506.7, "navigation_to_ready_ms": 898.1, "frames": 46, "median_frame_ms": 20.8, "p95_frame_ms": 26.2, "max_frame_ms": 50.5, "calls": 78, "triangles": 250256 },
+      { "viewport": [1440, 900], "run": 1, "mount_to_ready_ms": 467.2, "navigation_to_ready_ms": 896.3, "frames": 46, "median_frame_ms": 20.8, "p95_frame_ms": 22.3, "max_frame_ms": 62.7, "calls": 78, "triangles": 250256 },
+      { "viewport": [1440, 900], "run": 2, "mount_to_ready_ms": 466.0, "navigation_to_ready_ms": 846.4, "frames": 47, "median_frame_ms": 20.8, "p95_frame_ms": 22.1, "max_frame_ms": 46.8, "calls": 78, "triangles": 250256 },
+      { "viewport": [390, 844], "run": 0, "mount_to_ready_ms": 443.6, "navigation_to_ready_ms": 873.2, "frames": 46, "median_frame_ms": 20.8, "p95_frame_ms": 25.5, "max_frame_ms": 64.9, "calls": 35, "triangles": 139922 },
+      { "viewport": [390, 844], "run": 1, "mount_to_ready_ms": 413.7, "navigation_to_ready_ms": 814.9, "frames": 46, "median_frame_ms": 20.8, "p95_frame_ms": 22.2, "max_frame_ms": 52.7, "calls": 35, "triangles": 139922 },
+      { "viewport": [390, 844], "run": 2, "mount_to_ready_ms": 439.9, "navigation_to_ready_ms": 814.7, "frames": 46, "median_frame_ms": 20.8, "p95_frame_ms": 22.9, "max_frame_ms": 48.9, "calls": 35, "triangles": 139922 }
+    ],
+    "candidate_load_runs": [
+      { "viewport": [1440, 900], "run": 0, "mount_to_ready_ms": 478.2, "navigation_to_ready_ms": 851.2, "frames": 46, "median_frame_ms": 20.8, "p95_frame_ms": 23.1, "max_frame_ms": 55.7, "calls": 78, "triangles": 250256 },
+      { "viewport": [1440, 900], "run": 1, "mount_to_ready_ms": 459.1, "navigation_to_ready_ms": 845.0, "frames": 46, "median_frame_ms": 20.9, "p95_frame_ms": 22.6, "max_frame_ms": 58.6, "calls": 78, "triangles": 250256 },
+      { "viewport": [1440, 900], "run": 2, "mount_to_ready_ms": 476.5, "navigation_to_ready_ms": 858.6, "frames": 46, "median_frame_ms": 20.8, "p95_frame_ms": 21.7, "max_frame_ms": 47.5, "calls": 78, "triangles": 250256 },
+      { "viewport": [390, 844], "run": 0, "mount_to_ready_ms": 465.2, "navigation_to_ready_ms": 835.9, "frames": 46, "median_frame_ms": 20.9, "p95_frame_ms": 28.7, "max_frame_ms": 59.8, "calls": 76, "triangles": 248968 },
+      { "viewport": [390, 844], "run": 1, "mount_to_ready_ms": 461.0, "navigation_to_ready_ms": 910.3, "frames": 46, "median_frame_ms": 20.8, "p95_frame_ms": 29.0, "max_frame_ms": 54.5, "calls": 76, "triangles": 248968 },
+      { "viewport": [390, 844], "run": 2, "mount_to_ready_ms": 496.2, "navigation_to_ready_ms": 895.8, "frames": 46, "median_frame_ms": 20.8, "p95_frame_ms": 22.0, "max_frame_ms": 41.9, "calls": 76, "triangles": 248968 }
+    ],
+    "readiness_caveat": "P2 review: baseline mobile stage resized AFTER ready to match candidate46svh. Mobile readiness timestamps are not matched-framing comparisons. Drag occurs after resize/canvas settlement and shares framing. Desktop initial framing matches.",
+    "performance_warning": "Mobile packed shirts increase visible draws35->76 and triangles139922->248968; median-of-run p95 22.9->28.7ms (~25%). Median frame interval unchanged20.8ms. PC unchanged78 calls/250256 triangles. Performance parity is NOT established; physical-mobile check required.",
+    "yellow_samples": [
+      { "image": "pc-list", "samples": 1688, "rgb": [231, 217, 9], "hex": "#e7d909", "hue_degrees": 56.22 },
+      { "image": "pc-back", "samples": 2580, "rgb": [223, 209, 5], "hex": "#dfd105", "hue_degrees": 56.15 },
+      { "image": "pc-front", "samples": 2708, "rgb": [225, 211, 5], "hex": "#e1d305", "hue_degrees": 56.18 },
+      { "image": "mobile-list", "samples": 1034, "rgb": [231, 217, 9], "hex": "#e7d909", "hue_degrees": 56.22 },
+      { "image": "mobile-back", "samples": 1913, "rgb": [225, 211, 6], "hex": "#e1d306", "hue_degrees": 56.16 },
+      { "image": "mobile-front", "samples": 2039, "rgb": [227, 212, 5], "hex": "#e3d405", "hue_degrees": 55.95 }
+    ],
+    "yellow_note": "Scene-only pixels R>140 G>120 B<30 and .90<G/R<1; median RGB of brightest red decile. Bright-base subset, not whole-garment measurement. Target #f2e303 hue56.23deg; illuminated cloth is darker; camo/shadows vary.",
+    "comparisons": "docs/images/p07/{pc,mobile}-{list,back,front,18-list}-comparison.png; original app captures with resized reference cover only, no grading; #f2e303 swatch; excluded from public/dist",
+    "closeup": "docs/images/p07/fabric-closeup-crop.png; actual shader at Tuner PC distance2.5/DPR2, cropped, not default framing",
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 12, "tests_passed": 106 },
+    "review": { "run": "01f38e22-adf9-4707-ba03-ce632932981f", "verdict": "OK with notes", "finding": "P2 mobile readiness evidence caveat, corrected by labeling", "read_only": true },
+    "unverified": ["physical iPhone Safari/Android Chrome", "new native-touch/pinch testing", "long-term GPU/thermal behavior", "normal-load failure and scene-owner disposal/retry end-to-end", "multi-window runtime continuity bound"],
+    "evidence": "Git-ignored .local/p07/browser-results.json, browser.log, load-{baseline,candidate}.json, load-check.mjs, color-report.json, stale.log, check-final.log; independent review output retention-managed outside repo; TESTING section19"
+  },
+  "p08_back_camo": {
+    "date": "2026-10-10", "base_commit": "97945ea", "branch": "pi/p08-back-camo",
+    "source_sha256": "7299a743c46c0e385c5dc2d1da3dd5448d713b09105af3c8146a972d18f39d37",
+    "manifest": "Historical P08 snapshot: 7fd2464:public/models/p08-textures.json; working-tree file is the latest delivery fixture",
+    "source_change_bbox_4096": [1582, 0, 3148, 2822],
+    "pixel_check": "All 8 decoded RGB WebPs unchanged outside back update bbox + 3 output pixels for Lanczos support. 4096 base exactly equals current atlas; 2048 base exactly equals Lanczos resize. GLB/UV, compositor, digit SVG, layout and Arimo font unchanged.",
+    "legacy_fp15": "P02 diagnostic uses original Arial Bold, RYOTO(2369,800,170px)/15(2369,1400,780px), scaled per resolution, fill17/17/17 and anchor mm. Recipe verified pixel-identical to old diagnostic at both sizes before regenerating. Actual player textures remain formal SVG/Arimo, not this prototype.",
+    "browser": { "viewports": [[1440, 900], [390, 844]], "players": ["ryoto-kai", "keita-kumokiri"], "faces": ["back", "front"], "screenshots": 8, "overflow": false, "page_exceptions": 0, "http_4xx_5xx": 0, "dpr": 1, "environment": "Windows agent-browser via owned CDP; ordinary App, no Tuner draft. Reduced-motion emulation for stable captures; wait for fonts, images, finite UI animations and Canvas backing-size settlement. Not physical-mobile/native-touch acceptance." },
+    "screenshots": "docs/images/p08/{pc,mobile}-{ryoto-kai,keita-kumokiri}-{back,front}.png; actual viewport captures, no grading",
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 12, "tests_passed": 112 },
+    "performance": "Asset-only update; no GPU texel/geometry changes. Previous benchmark and P07 performance records remain historical; not remeasured in P08.",
+    "evidence": "Git-ignored .local/p08/{red.log,green.log,check.log,base-build.log,ryoto-build.log,keita-build.log,pixel-report.json,before-browser.json,after-browser.json,browser.mjs,build-fp.py,verify-pixels.py}; TESTING section20"
+  },
+  "p09_panel_marks": {
+    "date": "2026-10-10", "base_commit": "ca4fe7c", "branch": "pi/p09-panel-marks",
+    "source_sha256": "dbefb079aca3f82ab9624b49f0e77382a4c4efc677f09abef33b8e021a5b5863",
+    "manifest": "public/models/p08-textures.json; existing current-delivery fixture retained without changing assets.test logic; 8 SHA/byte pairs updated",
+    "source_change_boxes_4096": [[1591, 1958, 1733, 2659], [3005, 1958, 3147, 2659], [3218, 829, 3403, 1171]],
+    "color": "66291 changed source pixels are solid #3d3d3d; other gray antialias values <=61. Two edge pixels blend over previously colored background; not asserted exact gray. Scene still uses sRGB color texture, original lighting/exposure and shared normal.",
+    "pixel_check": "All 8 decoded RGB outputs unchanged outside the 3 panel-mark boxes + 3 target pixels for Lanczos. 4096 unnumbered RGB equals source atlas; 2048 equals Lanczos resize. Front/back camo, logos, number/name positions, GLB/UV, formal compositor and legacy P02 Arial recipe unchanged.",
+    "browser": { "viewports": [[1440, 900], [390, 844]], "players": ["ryoto-kai", "keita-kumokiri"], "faces": ["back", "front"], "standard_dpr1_images": 10, "diagnostic_dpr2_panel_crops": 2, "diagnostic_drag_deg": 25, "overflow": false, "page_exceptions": 0, "http_4xx_5xx": 0, "environment": "Windows agent-browser/owned CDP and Vite52609; ordinary App; no saved Tuner draft. Reduced-motion emulation and settled fonts/images/UI/Canvas size. Diagnostic crops use genuine bounded detail drag, not edited Tuner values or color grading. Not physical phones." },
+    "screenshots": "docs/images/p09/{pc,mobile}-{ryoto-kai,keita-kumokiri}-{back,front}.png, {pc,mobile}-side-rack.png, {pc,mobile}-panel-detail.png",
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 12, "tests_passed": 112 },
+    "performance": "No new geometry or GPU texels. Compressed byte sizes updated; historical load/frame measurements not remeasured.",
+    "evidence": "Git-ignored .local/p09/{red.log,green.log,check.log,pixel-report.json,before-browser.json,after-browser.json,base-build.log,ryoto-build.log,keita-build.log,browser.mjs,build-fp.py,verify-pixels.py}; TESTING section21"
+  },
+  "p10_side_piece": {
+    "date": "2026-10-10 JST",
+    "base": "main 4957bd850f57ca8c95d7aa9267ae1660991fc898",
+    "branch": "pi/p10-side-piece",
+    "source_sha256": "630bc8ae13719eee1eb52afc575279cd59d89b147210b9c11ed3f49dbf7d507e",
+    "manifest": "public/models/p08-textures.json; current-delivery fixture updated, test logic unchanged; historical P09 fixture at c76ebd5",
+    "side_piece_uv_x": [3148, 3414],
+    "source_change_bbox_4096": [3218, 829, 3403, 1171],
+    "source_changed_pixels": 20130,
+    "erased_region_color": "#1e1e1e",
+    "pixel_check": "All 8 decoded RGB outputs unchanged outside erased side-piece bbox + 3 target pixels for Lanczos. Back-panel stars/ATHLETA, camo, logos, number/name positions unchanged. Unnumbered 4096 equals source RGB, 2048 equals Lanczos resize. src, assets-src, GLB/UV, formal compositor and legacy Arial recipe unchanged.",
+    "output_change_bbox": { "4096": [3218, 829, 3403, 1171], "2048": [1607, 413, 1703, 587], "1024": [803, 206, 853, 294] },
+    "browser": { "viewports": [[1440, 900], [390, 844]], "players": ["ryoto-kai", "keita-kumokiri"], "faces": ["back", "front"], "standard_dpr1_images": 10, "diagnostic_dpr2_panel_crops": 2, "diagnostic_drag_deg": 25, "overflow": false, "page_exceptions": 0, "http_4xx_5xx": 0, "capture_angle_before_after_rad": [3.5779249665883754, 3.5779249665883754], "capture_drag_held": true, "environment": "Windows agent-browser/owned CDP and Vite52610; ordinary App; no saved Tuner draft. Reduced-motion emulation; settled fonts/images/UI/Canvas size. Selected No15 drag held at pi+25deg during both crops; side-on No19 remains usual rack90deg. No color grading; not physical phones.", "visual": "One vertical ATHLETA visible on side-on black panel; duplicate side-piece mark removed; back-panel stars/ATHLETA retained.", "baseline_comparison": "Standard poses/camera/lighting and player identities unchanged." },
+    "screenshots": "docs/images/p10/{pc,mobile}-{ryoto-kai,keita-kumokiri}-{back,front}.png, {pc,mobile}-side-rack.png, {pc,mobile}-panel-detail.png",
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 12, "tests_passed": 112 },
+    "performance": "No geometry or texture-size change; compressed byte sizes updated. Historical performance not remeasured; P07 physical-device and mobile-performance risks remain.",
+    "independent_review": { "run": "69ceab08-d6a3-4d08-9e1e-e2f17b5e903f", "verdict": "OK for branch delivery; no findings", "limits": "Read-only evidence/image review; no independent command runs, physical-device acceptance or main-integration approval." },
+    "review_correction": "Reviewer c42494da-ccba-430c-87bb-fed1fcf1522e found initial detail crops had returned to pi after mouse release. Local harness now holds drag, asserts/records real angles immediately before/after capture, then releases and verifies pi. Final images/browser JSON recaptured; initial JSON/log preserved in .local/p10/after-browser-initial.*. No application-source edits.",
+    "evidence": "Git-ignored .local/p10/{red.log,green.log,check.log,pixel-report.json,before-browser.json,after-browser.json,base-build.log,ryoto-build.log,keita-build.log,browser.mjs,build-fp.py,verify-pixels.py}; TESTING section22"
+  },
+  "p11_side_wordmark": {
+    "date": "2026-10-11 JST",
+    "base": "main deff6749f5a296bddf29358c954d9e85c560915d",
+    "branch": "pi/p11-side-wordmark",
+    "source_sha256": "ced4e49465189a29e65c3e7a2789a38818915a61a7e814115e78a06a7d652015",
+    "manifest": "public/models/p08-textures.json; current-delivery fixture updated without test logic changes; historical P10 at d6946bb",
+    "source_change_boxes_4096": [[1591,1168,1733,2659], [3005,1168,3147,2659], [3171,476,3273,1136], [3289,476,3391,1136]],
+    "source_changed_pixels": 130913,
+    "pixel_check": "All 8 decoded RGB outputs unchanged outside 4 panel-mark regions + 3 target pixels for Lanczos. Front, camo, other logos, number/name shapes and positions preserved. Unnumbered 4096 equals source RGB; 2048 equals Lanczos resize. No src/assets-src/GLB/UV/Tuner/UI edits.",
+    "browser": { "viewports": [[1440,900], [390,844]], "players": ["ryoto-kai", "keita-kumokiri"], "faces": ["back", "front"], "app_standard_dpr1_images": 10, "app_held25deg_dpr2_crops": 2, "diagnostic_side_rear_dpr1_images": 8, "total_images": 20, "overflow": false, "page_exceptions": 0, "http_4xx_5xx": 0, "baseline_comparison": "App poses, cameras, lighting and player IDs unchanged before/after regeneration", "environment": "Windows Chrome / own agent-browser p11-wordmark and Vite52611. App reduced-motion, settled fonts/images/UI/Canvas. No physical-device acceptance or performance remeasurement." },
+    "side_diagnostics": { "model": "public/models/jersey.glb, unchanged", "texture": "public/models/players/ryoto-kai-2048.webp", "normal": "existing shared fabric normal via unchanged configureFabricNormal/dressModel", "camera": "Level camera, true left +X / right -X, rear diagonals +/-X and -Z at45deg; target interpolated from actual GLB UV triangles; distance PC0.85/mobile0.95, FOV35", "lighting": "Inspection recipe from existing ModelPreview: white ambient1.5, directional [2,3,4]2.5 / [-2,1,-3]1.5. NeutralToneMapping, exposure1. Different from App lighting; labelled in images; no saved Tuner changes or color grading.", "visual_result": "One non-mirrored ATHLETA per side. Wearer left reads top-to-bottom, right bottom-to-top; glyph tops face back(-Z). Three stars visible behind wordmark on back panels in rear diagonal views. No direction mismatch found; source not corrected.", "checks": "Actual camera directions, level Y, GLB glyph-top Z less than bottom Z, projected word endpoints and rear-star centers inside frame. Camera/state evidence in .local/p11/side-browser.json." },
+    "screenshots": "docs/images/p11/{pc,mobile}-{left,right,left-rear,right-rear}-closeup.png; {pc,mobile}-{ryoto-kai,keita-kumokiri}-{back,front}.png; {pc,mobile}-side-rack.png; {pc,mobile}-panel-detail.png",
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 12, "tests_passed": 112 },
+    "independent_review": { "executed": false, "run": "fa4bf6b7-74a4-4f05-9e4c-587e297f4b42", "status": "launch failed: host lacks @earendil-works/pi-agent-core/node", "delivery_without_review_approved_by_user": true, "main_integration": "Claude to review images/diff before deciding", "tool_repair": "Out of scope; not attempted" },
+    "performance": "Texture dimensions and geometry unchanged. Compressed bytes updated; P07 performance/physical-device risks remain.",
+    "evidence": "Git-ignored .local/p11/{red.log,green.log,check.log,pixel-report.json,before-browser.json,after-browser.json,side-browser.json,base-build.log,ryoto-build.log,keita-build.log,browser.mjs,build-fp.py,verify-pixels.py,side-view.html,capture-sides.mjs}; TESTING section23"
+  },
+  "p13_sleeve_cuff": {
+    "date": "2026-10-11 JST",
+    "base": "main a76ddc8d9d9c8bc6b662cea84e82757fcb91f724",
+    "branch": "pi/p13-sleeve-cuff",
+    "source_sha256": "d5e6b720dbc42e31f441f7a0186947b3c7fee58658e643c7da68e5bf8a1be8dd",
+    "manifest": "public/models/p08-textures.json（現行8枚のSHA／bytes）。P-12 d2cb657は未統合・不採用、比較配信はmainのP-11。",
+    "source_change_boxes_4096": [[0,3194,1398,3406], [1398,2734,2788,3470], [0,3470,1194,3682], [1194,3470,2380,3682]],
+    "source_changed_pixels_vs_p11": 1087865,
+    "source_change_bbox_vs_p12": [0,3104,2788,3682],
+    "pixel_check": "全8枚は袖・袖口の変更領域＋LANCZOS周囲3出力px以外の復号RGB一致。身頃・脇・背面・他ロゴ・番号／ネームの配置は保持。4096番号なしは原本RGB、2048はLANCZOS縮小一致。既存SVGの8px塗り足しを含めて比較し、実GLBの身頃／脇／襟のUVに原本差分が重ならないことを確認。src/assets-src/GLB/UV/Tuner/UI不変。",
+    "browser": { "viewports": [[1440,900], [390,844]], "players": ["ryoto-kai","keita-kumokiri"], "faces": ["back","front"], "app_standard_dpr1_images": 10, "app_held25deg_dpr2_crops": 2, "inspection_dpr1_images": 18, "total_images": 30, "overflow": false, "page_exceptions": 0, "http_4xx_5xx": 0, "baseline_comparison": "最終通常10枚の姿勢・カメラ・照明・選手ID・Canvas rect/backing buffer/GL viewport・実カメラ投影/view行列は旧新完全一致。", "environment": "Windows agent-browser p13-cuff／Vite52613。通常Appは保存Tuner不変、reduced-motionと安定したフォント／画像／UI／描画領域で撮影。物理スマホの受け入れではない。" },
+    "sleeve_measurements": {
+      "method": "実GLBの外側中央で黒線上端y3370・下端y3406と見える別袖口の折り端を三角形補間し、同じDPR1画像への投影ユークリッド距離pxを比較。本体端で打ち切らない。代表位置の見かけ比率で、全周／実物mmの計測ではない。",
+      "left_uv": { "stripe_top": [703,3370], "stripe_bottom": [703,3406], "visible_cuff_fold": [601,3576] },
+      "right_uv": { "stripe_top": [2093,3370], "stripe_bottom": [2093,3406], "visible_cuff_fold": [1787,3576] },
+      "acceptance_range": [3.5,5],
+      "exterior": [
+        { "viewport": [1440,900], "side": "left", "stripe_px": 30.08153791956641, "band_including_cuff_px": 120.05332339934478, "ratio": 3.9909303746487175, "within_range": true },
+        { "viewport": [1440,900], "side": "right", "stripe_px": 30.02337328778026, "band_including_cuff_px": 120.67031266498613, "ratio": 4.019212348603741, "within_range": true },
+        { "viewport": [390,844], "side": "left", "stripe_px": 16.438868563845794, "band_including_cuff_px": 65.12925059613598, "ratio": 3.961905914825278, "within_range": true },
+        { "viewport": [390,844], "side": "right", "stripe_px": 16.36938124677714, "band_including_cuff_px": 65.30206540793917, "ratio": 3.9892812332656775, "within_range": true }
+      ],
+      "visibility": "4外側画像の全測定点はraycast最初のhitと一致、最大差2.50e-16正規化world単位。撮影前後のカメラ／測定値一致をassert。",
+      "camera": "P-12と同じ距離／注視点を保持。外側[±1,.25,0]、前後[±1,.25,±1]、脇下[±1,-.7,0]を正規化、PC距離.65／390幅1.1、FOV35。文字確認のみ前方16.7度[1,.25,.3]を追加。",
+      "lighting": "通常Appと別の検品用白色光、ModelPreview ambient1.5／directional [2,3,4]2.5・[-2,1,-3]1.5。NeutralToneMapping／露出1、画像ラベルに明示。色補正・保存Tuner変更なし。"
+    },
+    "visual": "袖口にも迷彩3色、全周一色の旧無地帯なし。本体と袖口は別切り出しで柄の輪郭が境界では連続しない。原本は直さず画像でClaudeへ渡す。ノガミは非鏡文字・黒線と非重複、前方約17度のPC／390幅画像で全文確認。外側正対の1枚では最初のノが曲面に隠れる。",
+    "capture_correction": "初回は遅いカード／CSSレイアウト確定を待てず、撮影前後の描画領域assertでRED（PC幅1440→1040）。ローカル撮影手順だけにカード表示・フォント／UI／実描画領域と投影行列の400ms安定待ちを追加。旧新を再撮影し最終10枚の実framing一致でGREEN。初回画像／JSON／失敗ログ保持、アプリ変更なし。基準8枚の一時復元はfinallyでP-13全byteを戻しSHA／画素を再検査。",
+    "screenshots": "docs/images/p13/{pc,mobile}-{left,right}-sleeve-closeup.png、左右front/rear/under、left-logo、両選手back/front、side-rack、panel-detail。全30枚、docsのみ・dist除外。",
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 12, "tests_passed": 112 },
+    "independent_review": { "executed": false, "child_launch_attempted": false, "host": "pi-agent-core 1.1.0のexportsに./nodeなし（読み取りのみで確認）", "delivery_without_review_approved_by_user": true, "tool_repair_attempted": false, "main_integration": "Claudeの画像・差分確認後に判断" },
+    "unverified": ["実物の迷彩方向・切替の柄つながり", "物理スマホ／native touch", "P-07負荷／発熱・長期GPUの残件"],
+    "evidence": "Git-ignored .local/p13/（生成、red/green/check、pixel/uv/cuff-colors、before/after-browser、framing-red/green、sleeve-browser、review-availability、再実行工具）。TESTING §25。"
+  },
+  "p14_gk_texture": {
+    "status": "P-14の履歴。現行GK配信はp15_gk_regenerationとplayers/bigode.jsonを参照。",
+    "base": "e8b39f64aba4a9946aa55b5543bb678b0752b779",
+    "branch": "pi/p14-gk-texture",
+    "source_sha256": "4b517e4b9945fc1dc647daddb3c69f286f1caa91770c198165fad0d301c71eda",
+    "manifest": "public/models/players/bigode.json",
+    "player": { "id": "bigode", "number": 30, "shirt_name": "BIGODE", "kit": "gk-primary", "profile_checked_at": "2026-10-11", "official_rows": 21, "imported_rows": 20, "omitted_blank_row": "サッカー最終所属", "instagram": "not-listed", "purchase": "unconfirmed", "portrait_displayed": false },
+    "delivery_bytes": { "1024": 134460, "2048": 280802 },
+    "preserved": "既存FP8枚・両atlas・GLBのSHA一致、既存FP2選手と両kitのデータ一致。正式SVG/Arimo/layout/colorは共通のまま。GK復号RGBは合成4096PNGのLANCZOS縮小と完全一致、番号・ネーム領域＋フィルター周辺以外は原本の縮小RGB一致。",
+    "browser": { "viewports": [[1440,900],[390,844]], "app_images": 16, "inspection_images": 16, "total_images": 32, "dpr": 1, "overflow": false, "page_exceptions": 0, "http_4xx_5xx": 0, "framing": "通常AppのCanvas rect/buffer/GL viewportと実カメラ投影/view行列の400ms安定待ち、撮影前後一致。実GPU材質の選手別1024/2048画像URLも照合。", "environment": "Windows agent-browser p14-gk / Vite52614。物理スマホではない。", "inspection": "実GLB・GK2048・既存法線。FOV35、部品のworld boundsに合わせた検品カメラ。白色ambient1.5 / directional [2,3,4]2.5・[-2,1,-3]1.5、NeutralToneMapping/露出1。通常Appとは別と画像ラベルに明示。" },
+    "visual": "前後の水色迷彩・30・BIGODEを確認。JOY HEART/番号/ネームの重複なし、脇黒パネル隣も水色。左袖のノは曲面に一部隠れ、襟縁に青い小点が見える。原本/UV/GLBは修正せずClaudeへ画像確認を渡す。",
+    "screenshots": "tests/images/p14/（通常App16枚、前後・真横左右・後方左右・左袖・襟の検品16枚。public/distには含めない）",
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 13, "tests_passed": 119 },
+    "unverified": ["実物の背面柄の倍率・方向と脇境界", "袖/袖口の仮柄と襟縁の精密整合", "公式で見えていない星/右脇ATHLETAと未配置パッチ", "物理スマホ/native touch/性能/発熱/長期GPU", "独立レビュー（未実行、道具の修理なし）"],
+    "evidence": "docs/TESTING.md §26、tests/fixtures/p14-bigode-profile.json、git-ignored .local/p14/（公式HTML、baseline、生成、red/green/check、検証、browser JSON、検品/capture工具）。main統合はClaude。"
+  },
+  "p15_gk_regeneration": {
+    "status": "再生成・画素／画像確認と追加許可後のcheck完了。Piが専用ブランチへcommit/pushし、main統合はClaude。",
+    "base": "3cb962b4a1fea3a8fcd19c92e061d076ecabcd9a",
+    "branch": "pi/p15-gk-regenerate",
+    "source_sha256": "24a53c03345420fee21afc0aff30a068b40f21a6c95e042763664bf0fbfe61a8",
+    "previous_source_sha256": "4b517e4b9945fc1dc647daddb3c69f286f1caa91770c198165fad0d301c71eda",
+    "manifest": "public/models/players/bigode.json",
+    "command": "node src/scene/compose-player-textures.mjs bigode 30 BIGODE gk-primary",
+    "delivery": {
+      "1024": { "bytes": 136468, "sha256": "7c3e105f0393322c79892e5db8d64b94890833aa6c425d7c6e0166ac8ac1ef38", "changed_pixels": 26981, "delta_bbox": [394,17,790,681] },
+      "2048": { "bytes": 286782, "sha256": "96be96fe1e4c59656793a939a316e57d1a7b573bec2711ed825e9db4af39b8b0", "changed_pixels": 58673, "delta_bbox": [789,35,1577,1359] }
+    },
+    "source_delta": { "changed_pixels": 78074, "bbox": [1582,72,3148,2712], "back_only": true },
+    "pixel_verification": "両サイズの復号RGBは合成4096PNGのLANCZOS縮小と完全一致。旧新は後身頃[1582,0,3156,2742]＋縮小フィルター周囲3px以外で全画素一致。4096合成の黒ロゴ・番号・ネーム・パネルの完全黒塗り画素マスクは一致。背景変化に伴う混色画素の色変化は含む。",
+    "preserved": { "fp_texture_count": 8, "protected_sha_checks": 106, "runtime_src_unchanged": true, "authorized_test_file": "src/scene/compose-player-textures.test.js", "authorized_test_lines": [30,32], "font_line_46_and_other_lines_unchanged": true, "assets_src_unchanged": true, "glb_uv_unchanged": true, "whole_catalog_unchanged": true, "composition_inputs_unchanged": true },
+    "browser": {
+      "viewports": [[1440,900],[390,844]], "dpr": 1, "inspection_images": 12, "side_by_side_images": 6, "total_images": 18,
+      "overflow": false, "page_exceptions": 0, "http_4xx_5xx": 0,
+      "framing": "旧新のカメラ位置・注視点・投影/world行列、Canvas rect/buffer/GL viewport、geometry/calls/triangles、白色照明が一致。撮影前400ms安定・前後一致。backはP-14 browser.jsonの実カメラ／照明にも一致。全袖を含むback-wholeと背番号3横のback-contourは共通の追加検品カメラ。",
+      "inspection": "実GLB/GK2048/共有法線、FOV35。白色ambient1.5 / directional [2,3,4]2.5・[-2,1,-3]1.5、NeutralToneMapping/露出1。通常Appとは別とラベルに明記。",
+      "environment": "Windows headless Chrome、agent-browser p15-gk、Vite52615。スマホ幅であり物理端末ではない。"
+    },
+    "visual": "旧P-14では3横の迷彩に階段状の輪郭が見え、新P-15では滑らか。背面全体のJOY HEART・30・BIGODE・黒脇パネルの字形と位置は維持。原本／UV／GLBの追加修正なし。",
+    "screenshots": "tests/images/p15/{pc,mobile}-{p14,p15,compare}-gk-{back,back-whole,back-contour}.png。比較は旧を左、新を右へ等倍で並べるだけで色補正なし。public/distには含めない。",
+    "check": { "command": "npm run check", "exit_code": 0, "test_files": 13, "tests_passed": 119, "tests_failed": 0, "build_passed": true, "log": ".local/p15/check-authorized.log", "prior_failure": { "exit_code": 1, "tests_passed": 118, "tests_failed": 1, "failure": "追加許可前のatlas Buffer深い比較5秒timeout（5.317秒）。", "log": ".local/p15/check-final.log" } },
+    "test_change_verification": { "authorized_lines": [30,32], "assertion": "expect(a.equals(b)).toBe(true)", "targets": ["fp-home","gk-primary","default fp-home"], "other_lines_and_timeout_unchanged": true, "intentional_one_byte_mismatch_failures": 3, "focused_test_files": 3, "focused_tests_passed": 22, "evidence": ".local/p15/allowed-change.log / mismatch-red.log / green-authorized.log" },
+    "focused_failures": "追加許可前の履歴: 旧source SHAで2件RED／20件成功。再生成後focusedは既存atlas Buffer深い比較が5秒timeoutで2回各21件成功／1件失敗。標準checkも一度118成功／1失敗。その後、許可2行のみを全バイト一致のBuffer.equalsへ変更し、focused22件／標準check119件成功。対象・制限時間の緩和なし、失敗ログも保持。",
+    "unverified": ["実物の柄倍率・方向・部品境界", "袖/袖口の仮柄・襟縁・未確認印/未配置パッチ（P-14から継続）", "物理スマホ/native touch/性能/発熱/長期GPU", "通常Appの全操作再実演・productionブラウザ", "独立レビュー（未実行、道具の修理/代替起動なし）"],
+    "handoff": "追加許可後にcheck全件成功。src/scene/compose-player-textures.test.jsは30/32行のみ変更、46行目のフォント比較を含む他行は不変。不一致3照合の失敗を確認。Piが専用ブランチへcommit/pushして渡し、main統合はClaude。docs/TESTING.md §27、git-ignored .local/p15/に生成・失敗/check・SHA/画素・旧新カメラ・撮影工具を保存。"
+  }
+}

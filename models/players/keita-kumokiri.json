@@ -1,0 +1,17 @@
+{
+  "id": "keita-kumokiri",
+  "number": 19,
+  "shirtName": "K.KEITA",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 132114,
+      "sha256": "d9be290b85b2ebfc23f577468bc861d23886d17d3f3427313bb7cbcaf1d65c9d"
+    },
+    "2048": {
+      "bytes": 281062,
+      "sha256": "713b7b1c3eb89f9e6f07507934a75fb3dd175fee22338b3f2592010d1537840b"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kojiro-takano",
+  "number": 99,
+  "shirtName": "KOJIRO",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 138134,
+      "sha256": "7330c57c888e9e06f07b2797a76616cfd81c500bf90aa5e2a44ceb00ee347b8f"
+    },
+    "2048": {
+      "bytes": 293772,
+      "sha256": "e51c34c896df12b651a6b21e56d3bee4d70266e44b54b856795794d45f26f502"
+    }
+  }
+}

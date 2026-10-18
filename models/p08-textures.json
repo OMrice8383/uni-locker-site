@@ -1,0 +1,37 @@
+{
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "files": {
+    "fp-home-2048.webp": {
+      "bytes": 266354,
+      "sha256": "fdc00c3d3a89eb0a0e6b43ac7910bafd0493cf773c760d596f40ea46586e5242"
+    },
+    "fp-home-4096.webp": {
+      "bytes": 305094,
+      "sha256": "b0ac442f147eab2d676a98dfa28c6a8e727856f17d32789fab9819759d221351"
+    },
+    "fp-home-2048-15.webp": {
+      "bytes": 273220,
+      "sha256": "37757b69fa0dc5542709edf8e2d0470e374a49c58eb15d0fc81438754332dc88"
+    },
+    "fp-home-4096-15.webp": {
+      "bytes": 318752,
+      "sha256": "371c56a761cf9c574ce19d1f9ac8c505a17ba865741355e2c5025491c455c30e"
+    },
+    "players/ryoto-kai-1024.webp": {
+      "bytes": 131216,
+      "sha256": "66cd056371be22778d751a8d8720042f1faa6f4460000125c39831217f5f068e"
+    },
+    "players/ryoto-kai-2048.webp": {
+      "bytes": 279326,
+      "sha256": "abfeb0524c50298bfabb3584435dd3c61e2be5fc1b5bd9d35c4d2361372413df"
+    },
+    "players/keita-kumokiri-1024.webp": {
+      "bytes": 132114,
+      "sha256": "d9be290b85b2ebfc23f577468bc861d23886d17d3f3427313bb7cbcaf1d65c9d"
+    },
+    "players/keita-kumokiri-2048.webp": {
+      "bytes": 281062,
+      "sha256": "713b7b1c3eb89f9e6f07507934a75fb3dd175fee22338b3f2592010d1537840b"
+    }
+  }
+}

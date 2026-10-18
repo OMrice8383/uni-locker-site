@@ -1,0 +1,17 @@
+{
+  "id": "shinnosuke-nakamura",
+  "number": 18,
+  "shirtName": "SHINNOSUKE",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 136186,
+      "sha256": "8cdeea2d1b13db89f0fbd71347c1ad83fe1a8b146540ff1aa5031efd5a0406d0"
+    },
+    "2048": {
+      "bytes": 289682,
+      "sha256": "ddca7e44c13110f7a4984b5bb2c8728055d7b7444ef295f6feac89e23363a484"
+    }
+  }
+}

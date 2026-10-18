@@ -1,0 +1,17 @@
+{
+  "id": "shoma-kai",
+  "number": 14,
+  "shirtName": "SHOMA",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 129906,
+      "sha256": "aadd40407e6d289b584a981cd72330e0c0b0aa52c91221a294e44aa625bb7c95"
+    },
+    "2048": {
+      "bytes": 276964,
+      "sha256": "fa6b580184ac41dbe1b5c90ac1af1758cfdd44c4dd1fab3cf79d29fd7901a7c2"
+    }
+  }
+}

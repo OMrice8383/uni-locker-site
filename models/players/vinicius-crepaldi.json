@@ -1,0 +1,17 @@
+{
+  "id": "vinicius-crepaldi",
+  "number": 10,
+  "shirtName": "VINICIUS",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 132020,
+      "sha256": "8bcc9079ac7689e32a1776f3664e25152f67dfcdb74557c73fbcad8a51bc5948"
+    },
+    "2048": {
+      "bytes": 281390,
+      "sha256": "83ef81f39cd4ad4998949a6d5d1919aa1004b8635f6e8b57dafb0e32cce75544"
+    }
+  }
+}

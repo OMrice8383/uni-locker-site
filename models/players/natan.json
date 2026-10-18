@@ -1,0 +1,17 @@
+{
+  "id": "natan",
+  "number": 11,
+  "shirtName": null,
+  "nameSource": null,
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 124366,
+      "sha256": "791a47f57d1dd509036bb35d5fcd49548b907dd76b4fc3a803249d4d529b5b6b"
+    },
+    "2048": {
+      "bytes": 265714,
+      "sha256": "e745dbd1a7ff9314c6002229a353343c54a4020588075aaa70ad62059aeca0c3"
+    }
+  }
+}

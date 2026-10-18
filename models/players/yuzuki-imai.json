@@ -1,0 +1,17 @@
+{
+  "id": "yuzuki-imai",
+  "number": 16,
+  "shirtName": "YUZUKI",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 132210,
+      "sha256": "3769858312d2da760b597b9a66401c1d4bdb2820333f5a751740755a1c65dca8"
+    },
+    "2048": {
+      "bytes": 281238,
+      "sha256": "6f2235d74b3f7df13bd8ebef4c0ed7eebf174ef4e32e7ecbd4fbea1165f0a11d"
+    }
+  }
+}

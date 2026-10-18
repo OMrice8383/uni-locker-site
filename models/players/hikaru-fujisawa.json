@@ -1,0 +1,17 @@
+{
+  "id": "hikaru-fujisawa",
+  "number": 88,
+  "shirtName": "HIKARU",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 139792,
+      "sha256": "0e43476a838349bb62cdaa1bdf568cb056031c59692e92d9a8303ffb3b499570"
+    },
+    "2048": {
+      "bytes": 296980,
+      "sha256": "138f67716219f395a7db6bc6267f8869c8adf0889235ded322a4a202894e70e4"
+    }
+  }
+}

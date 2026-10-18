@@ -1,0 +1,18 @@
+{
+  "id": "sota-watanabe",
+  "number": 25,
+  "shirtName": "SOTA",
+  "kitId": "gk-primary",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "57c4806616fd33b71f64dd217f7d47ee8a5829847aaef1456ce955efe53b5200",
+  "sizes": {
+    "1024": {
+      "bytes": 138090,
+      "sha256": "5dcdff54c0e4270ce7b0496473ba91b57bcd3046ba5aad8b1dac7e527e126717"
+    },
+    "2048": {
+      "bytes": 290540,
+      "sha256": "bdd60c6300a16a4ee4ed1b2aa8926d99a45ce1e57ef06b0648b2c84a583865af"
+    }
+  }
+}

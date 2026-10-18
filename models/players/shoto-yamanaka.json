@@ -1,0 +1,17 @@
+{
+  "id": "shoto-yamanaka",
+  "number": 7,
+  "shirtName": "SHOTO",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 131218,
+      "sha256": "ecb417250653724b9b724bb25fa154a1eb597e9cd51016ca0eb4a938cd0ffb86"
+    },
+    "2048": {
+      "bytes": 280288,
+      "sha256": "d84ecf9ac8a26baf59541c5a608df2a569aa6dd33dcb48966a894379c2386041"
+    }
+  }
+}

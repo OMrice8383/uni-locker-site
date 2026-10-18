@@ -1,0 +1,17 @@
+{
+  "id": "ryoto-kai",
+  "number": 15,
+  "shirtName": "RYOTO",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 131216,
+      "sha256": "66cd056371be22778d751a8d8720042f1faa6f4460000125c39831217f5f068e"
+    },
+    "2048": {
+      "bytes": 279326,
+      "sha256": "abfeb0524c50298bfabb3584435dd3c61e2be5fc1b5bd9d35c4d2361372413df"
+    }
+  }
+}

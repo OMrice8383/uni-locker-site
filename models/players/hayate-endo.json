@@ -1,0 +1,17 @@
+{
+  "id": "hayate-endo",
+  "number": 23,
+  "shirtName": "HAYATE",
+  "nameSource": "https://www.pescadola-machida.com/77978/",
+  "sourceSha256": "7aeb6bd8f2dfb9bcab8e0bf4c6137a1f6e602d584de4e76310c6fcb1bbd340e9",
+  "sizes": {
+    "1024": {
+      "bytes": 137508,
+      "sha256": "4a8480507baf6847f9c728363357aafb6b3aaec2fcdbf3dab9e836ccd6256fd7"
+    },
+    "2048": {
+      "bytes": 291800,
+      "sha256": "cbfed416b75cb242a2a432c32a0602a9111a0a53ec95c9198f62a7e6dfbf284e"
+    }
+  }
+}
